@@ -22,6 +22,7 @@
   title: "BabyTheorist: A Benchmark for Learning to Theorize the World from Observation Alone"
   venue: NeurIPS 2026
   description: ""
+  arxiv: 2611.08177
   image: babytheorist.png
   equal_contribution:
     - doojin
