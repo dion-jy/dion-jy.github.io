@@ -20,7 +20,7 @@
 
 - id: babytheorist
   title: "BabyTheorist: A Benchmark for Learning to Theorize the World from Observation Alone"
-  venue: NeurIPS 2026
+  venue: NeurIPS 2026 (Evaluations & Datasets Track)
   description: ""
   arxiv: 2611.08177
   image: babytheorist.png
